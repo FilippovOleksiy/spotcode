@@ -1,0 +1,12 @@
+{
+  "name": "spotcode",
+  "displayName": "spotcode",
+  "expo": {
+    "name": "spotcode",
+    "slug": "spotcode",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
